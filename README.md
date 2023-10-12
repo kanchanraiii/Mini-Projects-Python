@@ -6,4 +6,4 @@
 4. Tile Master Game
 5. Guess Number
 
-All these projects are GUI Based.
+All these projects are Tkinter GUI Based.
