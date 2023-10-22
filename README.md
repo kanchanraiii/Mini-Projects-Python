@@ -1,4 +1,4 @@
-# This repository contains mini projects built with Python
+# Listed Projects
 
 1. Type Racer Game
 2. Text Translate with Audio
